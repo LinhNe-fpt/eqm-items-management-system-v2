@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@iconify/react": "^6.0.2",
+    "@tsparticles/react": "^3.0.0",
+    "exceljs": "^4.4.0",
+    "framer-motion": "^12.23.25",
+    "i18next": "^25.7.3",
+    "jspdf": "^3.0.4",
+    "jspdf-autotable": "^5.0.2",
+    "mssql": "^12.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^16.5.0"
+  }
+}
