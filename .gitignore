@@ -1,1 +1,15 @@
 node_modules
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Node modules
+node_modules/
+
+# OS rác
+.DS_Store
+Thumbs.db
+
+# File môi trường (chứa mật khẩu, API key nếu có)
+.env
